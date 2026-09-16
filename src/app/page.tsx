@@ -330,7 +330,7 @@ export default function Home() {
               />
             </div>
 
-            <h3>High-Achieving Professionals</h3>
+            <h3>Working Professionals</h3>
 
             <p>
               Entrepreneurs, creatives, and professionals can explore perfectionism, high internal pressure, and the habits that make sustainable living and working feel difficult.
@@ -346,7 +346,7 @@ export default function Home() {
               />
             </div>
 
-            <h3>People Navigating Change</h3>
+            <h3>People Navigating Life Transitions</h3>
 
             <p>
               Therapy can help when past experiences affect relationships, confidence, safety, or your ability to feel settled in the present.
