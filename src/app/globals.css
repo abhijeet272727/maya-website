@@ -2456,7 +2456,7 @@ p {
   width: 100%;
   min-height: 100svh;
 
-  padding: 105px 0 115px;
+  padding: 205px 0 215px;
 
   background: #ffffff;
   color: var(--section-one-text);
@@ -2498,7 +2498,7 @@ p {
 /* THREE COLUMNS */
 
 .section-three-grid {
-  width: 1100px;
+  width: 1250px;
   margin-left: auto;
   margin-right: 5vw;
   display: grid;
@@ -2512,7 +2512,7 @@ p {
 .section-three-image {
   position: relative;
   width: 100%;
-  height: 410px;
+  height: 470px;
   overflow: hidden;
 }
 
