@@ -2498,9 +2498,10 @@ p {
 /* THREE COLUMNS */
 
 .section-three-grid {
-  width: 1250px;
+  width: min(1250px, calc(100% - 8vw));
   margin-left: auto;
   margin-right: 5vw;
+
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 20px;
@@ -4448,6 +4449,11 @@ p {
 
   .section-six-image {
     right: -160px;
+  }
+
+  .section-six-image-name {
+    right: -160px;
+
   }
 }
 
