@@ -2456,7 +2456,7 @@ p {
   width: 100%;
   min-height: 100svh;
 
-  padding: 205px 0 215px;
+  padding: 140px 0 140px;
 
   background: #ffffff;
   color: var(--section-one-text);
@@ -2472,7 +2472,7 @@ p {
   margin: 0;
 
   font-family: var(--heading-font);
-  font-size: clamp(2.1rem, 3.5vw, 3.8rem);
+  font-size: clamp(2rem, 3.2vw, 3.5rem);
   font-weight: 300;
   line-height: 1;
 
@@ -2487,7 +2487,7 @@ p {
   margin-left: 5px;
 
   font-family: var(--accent-font);
-  font-size: 1.08em;
+  font-size: 0.95em;
   font-weight: 300;
   line-height: 0.8;
 
@@ -2498,7 +2498,7 @@ p {
 /* THREE COLUMNS */
 
 .section-three-grid {
-  width: min(1250px, calc(100% - 8vw));
+  width: min(1125px, calc(100% - 8vw));
   margin-left: auto;
   margin-right: 5vw;
 
@@ -2513,7 +2513,7 @@ p {
 .section-three-image {
   position: relative;
   width: 100%;
-  height: 470px;
+  height: 430px;
   overflow: hidden;
 }
 
@@ -3139,6 +3139,7 @@ p {
   background: #ffffff;
   color: var(--section-one-text);
   display: flex;
+  padding-top: 30px;
   align-items: center;
   overflow: hidden;
 }
@@ -3173,7 +3174,7 @@ p {
   width: min(500px, 82%);
   margin-left: 55px;
   margin-right: auto;
-  transform: translateY(210px);
+  transform: translateY(180px);
 }
 
 .section-seven-copy h2 {
@@ -3344,7 +3345,7 @@ p {
 .section-eight {
   width: 100%;
   min-height: 110svh;
-  padding: 50px 0 130px;
+  padding: 70px 0 0;
   background: #ffffff;
   color: var(--section-one-text);
   overflow: hidden;
@@ -3501,7 +3502,7 @@ p {
   gap: 0;
   width: 100%;
   height: 100%;
-  padding: 240px 0;
+  padding: 85px 0;
 }
 
 .maya-office-copy,
@@ -3697,7 +3698,7 @@ p {
   z-index: 2;
   width: 560px;
   margin-left: 20%;
-  padding: 200px 0;
+  padding: 100px 0;
 }
 
 .section-nine-copy .original-eyebrow {
@@ -4448,11 +4449,11 @@ p {
   }
 
   .section-six-image {
-    right: -160px;
+    right: -130px;
   }
 
   .section-six-image-name {
-    right: -160px;
+    right: -135px;
 
   }
 }
