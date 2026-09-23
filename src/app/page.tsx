@@ -346,7 +346,7 @@ export default function Home() {
               />
             </div>
 
-            <h3>People Navigating Life Transitions</h3>
+            <h3>People Navigating Transitions</h3>
 
             <p>
               Therapy can help when past experiences affect relationships, confidence, safety, or your ability to feel settled in the present.
